@@ -32,6 +32,10 @@ p {
   text-align: center;
   margin: auto;
 }
+
+div {
+  float: left;
+}
 /*#featured-property {
   width: 800px;
   text-align: center;
